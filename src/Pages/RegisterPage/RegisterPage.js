@@ -4,13 +4,7 @@ import "./styles.css";
 import { FaAmazon, FaAnchor, FaBaby, FaUserAlt } from "react-icons/fa";
 import { FaKey } from "react-icons/fa";
 import CustomInput from "../../Components/CustomInput/CustomInput";
-import {
-  Fa5,
-  FaFaceFrownOpen,
-  FaFaceGrin,
-  FaFaceGrinHearts,
-  FaFaceKiss,
-} from "react-icons/fa6";
+
 import { createUserWithEmailAndPassword } from "firebase/auth";
 import CustomButton from "../../components/CustomButton/CustomButton";
 import { auth } from "../../firebase";
