@@ -1,0 +1,43 @@
+.customInputBaseContainer {
+  padding: 5px;
+  border-radius: 70px;
+  display: flex;
+  gap: 8px;
+  background-color:transparent;
+
+  
+}
+
+.customInputInputContainer input {
+  border: none;
+  
+}
+
+.customInputInputContainer input:focus {
+  outline: none;
+}
+
+.customInputBaseContainer {
+  padding: 10px;
+  border-radius: 50px;
+  border: 1px solid rgb(238, 167, 2);
+  display: flex;
+  gap: 4px;
+}
+
+.customInputInputContainer {
+  flex: 1;
+}
+
+.customInputInputContainer input {
+  border: none;
+  background-color: transparent;
+}
+
+.customInputInputContainer input:focus {
+  outline: none;
+}
+.customInputpasswordContainer{
+  border-color: darkmagenta;
+}
+  

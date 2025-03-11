@@ -1,0 +1,16 @@
+.loginPageContentBase1Container
+{
+    display: flex;
+    gap: 20px;
+
+}
+.LoginPageBase2Container{
+    display: flex;
+    gap: 20px;
+}
+.LoginPageContentPasswordContainer{
+    width: 200px;
+}
+.LoginPageContentAdressContainer{
+    width: 200px;
+}
